@@ -80841,11 +80841,11 @@ r=a9?A.M(c0,a3,a8).w.a.b*0.001*16:A.M(c0,a3,a8).w.a.b*0.001*18
 q=t.p
 r=A.e2(A.cL(A.c([new A.c5("Get In Touch",B.bY,b6,B.w,B.a3,a3),b7,b9,s,new A.c5("Let's work together on your next project",B.dk,r,B.C,B.a3,a3)],q),B.O,B.D,B.H),a3,a3)
 s=A.bb(a3,A.M(c0,a3,a8).w.a.b*0.05,a3)
-b9=a2.AY(c0,B.jB,"Email","alifb3101@example.com","Send me an email",A.aq(a5),A.c([A.aq(a5),A.aq(4278630100)],b8))
+b9=a2.AY(c0,B.jB,"Email","aliasgarbarbarawala53@gmail.com","Send me an email",A.aq(a5),A.c([A.aq(a5),A.aq(4278630100)],b8))
 b7=A.bb(a3,16,a3)
-b6=a2.AY(c0,B.n2,"Phone","+91 9909085071","Call me anytime",A.aq(a4),A.c([A.aq(a4),A.aq(4279548070)],b8))
+b6=a2.AY(c0,B.n2,"Phone","+971 543038520","Call me anytime",A.aq(a4),A.c([A.aq(a4),A.aq(4279548070)],b8))
 p=A.bb(a3,16,a3)
-o=a2.AY(c0,B.n1,"Location","WTT, Sanand Circle","Visit my location",A.aq(a6),A.c([A.aq(a6),A.aq(4282090230)],b8))
+o=a2.AY(c0,B.n1,"Location","sharjah , United Arab Emirates","Visit my location",A.aq(a6),A.c([A.aq(a6),A.aq(4282090230)],b8))
 n=A.bb(a3,A.M(c0,a3,a8).w.a.b*0.04,a3)
 m=a9?20:30
 l=A.bt(24)
@@ -80982,7 +80982,7 @@ this.bS()
 this.f7()}}
 A.Xp.prototype={
 $1(a){var s=null,r=A.bt(20)
-return A.arK(B.f,new A.bI(new A.a5(20,20,20,20),A.cL(A.c([A.d7("Contact Us",s,s,s,s,A.dB(s,s,B.jZ,s,s,s,s,s,s,s,s,22,s,s,B.as,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bb(s,20,s),A.anZ(B.n2,"Phone","9909085071"),A.bb(s,10,s),A.anZ(B.jB,"Email","alifb3101@example.com"),A.bb(s,10,s),A.anZ(B.n1,"Address","WTT , Sanand Circle"),A.bb(s,20,s),new A.Hm(new A.Xo(this.a),s,s,s,A.aBN(s,s,B.jZ,s,s,s,s,s,s,s,s,s,s,s,new A.cG(A.bt(12),B.r),s,s,s,s,s),s,s,!1,s,!0,s,new A.c5("Close",B.jA,15,B.f,B.a3,s),s)],t.p),B.O,B.D,B.c_),s),s,new A.cG(r,B.r))},
+return A.arK(B.f,new A.bI(new A.a5(20,20,20,20),A.cL(A.c([A.d7("Contact Us",s,s,s,s,A.dB(s,s,B.jZ,s,s,s,s,s,s,s,s,22,s,s,B.as,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bb(s,20,s),A.anZ(B.n2,"Phone","+971543038520"),A.bb(s,10,s),A.anZ(B.jB,"Email","aliasgarbarbarawala53@gmail.com"),A.bb(s,10,s),A.anZ(B.n1,"Address","Sharjah , United Arab Emirates"),A.bb(s,20,s),new A.Hm(new A.Xo(this.a),s,s,s,A.aBN(s,s,B.jZ,s,s,s,s,s,s,s,s,s,s,s,new A.cG(A.bt(12),B.r),s,s,s,s,s),s,s,!1,s,!0,s,new A.c5("Close",B.jA,15,B.f,B.a3,s),s)],t.p),B.O,B.D,B.c_),s),s,new A.cG(r,B.r))},
 $S:511}
 A.Xo.prototype={
 $0(){A.oz(this.a,!1).Uv(null)
